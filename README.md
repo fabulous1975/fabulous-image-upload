@@ -48,8 +48,8 @@ MIT Lisansı'nın tam metni için:
 
 ## 👤 Yazar
 
-**Fabulous** – [GitHub]((https://github.com/fabulous1975))
+**Fabulous** – [GitHub](https://github.com/fabulous1975)
 
 ---
 
-## ⭐ Beğendiysen yıldız at, beğenmediysen sikine takma.
+## ⭐ Beğendiysen yıldız at, beğenmediysen :(
