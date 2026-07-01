@@ -1,0 +1,15 @@
+# Do not remove this line or mod_rewrite rules and search engine friendly URLs will stop working
+RewriteBase /
+
+RewriteEngine On
+
+<files /config/db.php>
+order allow,deny
+deny from all
+</files>
+
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
+
